@@ -3,4 +3,4 @@ Silakan lengkapi tabel berikut dengan nama lengkap dan NRP:
 
 | Nama              | NRP        |
 |-------------------|------------|
-| [Nama Lengkap]    | [NRP]      |
+| [Catherine Aprilia Harlina]    | [5054251012]      |
